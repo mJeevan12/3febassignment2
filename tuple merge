@@ -1,0 +1,4 @@
+l1=("hi","jeevan","how","are","you")
+l2=("i","am","fine","thanks")
+l3=l1+l2
+print(l3)
